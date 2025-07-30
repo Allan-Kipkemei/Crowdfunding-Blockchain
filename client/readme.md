@@ -1,7 +1,3 @@
-Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
-
-![alt text](image.png)
-
 # Crowdfunding-Blockchain  
 A decentralized crowdfunding platform using blockchain.  
 
