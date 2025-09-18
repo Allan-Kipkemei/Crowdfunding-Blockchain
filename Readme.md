@@ -35,5 +35,7 @@ Think of it as an open-source **Kickstarter on Web3**, where transparency and se
 
 Clone the repo:
 ```bash
-git clone https://github.com/yourusername/crowdfunding-blockchain.git
+git clone git@github.com:Allan-Kipkemei/Crowdfunding-Blockchain.git
+
+git clone https://github.com/Allan-Kipkemei/Crowdfunding-Blockchain.git
 cd crowdfunding-blockchain
